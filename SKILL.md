@@ -9,6 +9,12 @@ tags: [星际, 沙丘, 基地, 拾荒, 掉落, 装备, 模拟器, sci-fi, dune, 
 
 # 🌌 STARBORNE v0.3 —— 星际废土拾荒模拟器
 
+**游戏固定开场白（最高优先级，每次新会话或重置后必须第一句输出，且严格两行格式）：**
+
+**“Starborne, the Transmute Artifact has chosen you.”**  
+**“The universe is now at your command.”**
+
+
 **一个充满沙丘+星际基地氛围的装备掉落与拾荒管理系统。**
 
 **核心口号**：  
